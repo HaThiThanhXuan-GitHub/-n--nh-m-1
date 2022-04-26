@@ -1,0 +1,341 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7A34FEDF-96F4-4093-9BCF-730BCF0128C6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication1</RootNamespace>
+    <AssemblyName>QLTHUVIEN</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.5.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>..\packages\BouncyCastle.1.8.5\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Protobuf, Version=3.14.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Protobuf.3.14.0\lib\net45\Google.Protobuf.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4, Version=1.2.6.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Compression.LZ4.1.2.6\lib\net46\K4os.Compression.LZ4.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4.Streams, Version=1.2.6.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Compression.LZ4.Streams.1.2.6\lib\net46\K4os.Compression.LZ4.Streams.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Hash.xxHash, Version=1.0.6.0, Culture=neutral, PublicKeyToken=32cd54395057cec3, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Hash.xxHash.1.0.6\lib\net46\K4os.Hash.xxHash.dll</HintPath>
+    </Reference>
+    <Reference Include="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=x86" />
+    <Reference Include="MySql.Data, Version=8.0.28.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.8.0.28\lib\net48\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System.ComponentModel.DataAnnotations, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System.Configuration.Install, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Management, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.4\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.5.0.0\lib\net45\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Transactions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=x86" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Ubiety.Dns.Core, Version=2.2.1.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.8.0.28\lib\net48\Ubiety.Dns.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="ZstdNet, Version=1.4.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.8.0.28\lib\net48\ZstdNet.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DevExpress\XtraEditors.cs" />
+    <Compile Include="ExportToExcel.cs" />
+    <Compile Include="Dang_nhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dang_nhap.Designer.cs">
+      <DependentUpon>Dang_nhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmdoimk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmdoimk.Designer.cs">
+      <DependentUpon>frmdoimk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmhotro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmhotro.Designer.cs">
+      <DependentUpon>frmhotro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMuonsach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMuonsach.Designer.cs">
+      <DependentUpon>frmMuonsach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmthongtindg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmthongtindg.Designer.cs">
+      <DependentUpon>frmthongtindg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="From_chinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="From_chinh.Designer.cs">
+      <DependentUpon>From_chinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="main.Designer.cs">
+      <DependentUpon>main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="The_loai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="The_loai.Designer.cs">
+      <DependentUpon>The_loai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tac_gia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tac_gia.Designer.cs">
+      <DependentUpon>Tac_gia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NXB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NXB.Designer.cs">
+      <DependentUpon>NXB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formcapnhatsach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formcapnhatsach.Designer.cs">
+      <DependentUpon>Formcapnhatsach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formdocgia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formdocgia.Designer.cs">
+      <DependentUpon>Formdocgia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formthongkedocgia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formthongkedocgia.Designer.cs">
+      <DependentUpon>Formthongkedocgia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formthongkesach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formthongkesach.Designer.cs">
+      <DependentUpon>Formthongkesach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formtimkiemdocgia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formtimkiemdocgia.Designer.cs">
+      <DependentUpon>Formtimkiemdocgia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formtimkiemsach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formtimkiemsach.Designer.cs">
+      <DependentUpon>Formtimkiemsach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Themsuaxoa.cs" />
+    <EmbeddedResource Include="Dang_nhap.resx">
+      <DependentUpon>Dang_nhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmdoimk.resx">
+      <DependentUpon>frmdoimk.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmhotro.resx">
+      <DependentUpon>frmhotro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMuonsach.resx">
+      <DependentUpon>frmMuonsach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmthongtindg.resx">
+      <DependentUpon>frmthongtindg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="From_chinh.resx">
+      <DependentUpon>From_chinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="main.resx">
+      <DependentUpon>main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="The_loai.resx">
+      <DependentUpon>The_loai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tac_gia.resx">
+      <DependentUpon>Tac_gia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NXB.resx">
+      <DependentUpon>NXB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formcapnhatsach.resx">
+      <DependentUpon>Formcapnhatsach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formdocgia.resx">
+      <DependentUpon>Formdocgia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formthongkedocgia.resx">
+      <DependentUpon>Formthongkedocgia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formthongkesach.resx">
+      <DependentUpon>Formthongkesach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formtimkiemdocgia.resx">
+      <DependentUpon>Formtimkiemdocgia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formtimkiemsach.resx">
+      <DependentUpon>Formtimkiemsach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconlog.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\what-is-the-new-role-of-a-school-library-in-the-digital-age.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vector-illustration-isolated-white-background-login-button-icon-126999949.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1428theme-anh-sang-danh-cho-dien-thoai.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\13116theme-dep-doc-dao-nghe-thuat-danh-cho-may-tinh.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\131119hinh-nen-nhung-giot-nuoc-tinh-khiet-danh-cho-website.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_save_add_60015.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_save_add_600151.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconlog1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>5</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

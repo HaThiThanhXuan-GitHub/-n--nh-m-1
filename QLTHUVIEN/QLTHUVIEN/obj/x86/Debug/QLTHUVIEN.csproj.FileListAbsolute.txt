@@ -1,0 +1,116 @@
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTHUVIEN.exe
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTHUVIEN.pdb
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.dangnhap.resources
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csproj.GenerateResource.Cache
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.exe
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.pdb
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formchinh.resources
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.theloaisach.resources
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csprojResolveAssemblyReference.cache
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formtacgia.resources
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formnhaxb.resources
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formcapnhatsach.resources
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formnhanvien.resources
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formdocgia.resources
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formmuontra.resources
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formtimkiemsach.resources
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formtimkiemdocgia.resources
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formthongkesach.resources
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csproj.ResolveComReference.cache
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formthongkedocgia.resources
+E:\nam3ky2\Đồ án\đồ án\Demo\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csproj.AssemblyReference.cache
+E:\nam3ky2\Đồ án\đồ án\Demo\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csproj.SuggestedBindingRedirects.cache
+E:\nam3ky2\Đồ án\đồ án\Demo\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.exe
+E:\nam3ky2\Đồ án\đồ án\Demo\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.pdb
+E:\nam3ky2\Đồ án\đồ án\quản lý thư viện\winform\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csproj.AssemblyReference.cache
+E:\nam3ky2\Đồ án\đồ án\quản lý thư viện\winform\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.exe
+E:\nam3ky2\Đồ án\đồ án\quản lý thư viện\winform\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.pdb
+E:\nam3ky2\Đồ án\đồ án\quản lý thư viện\winform\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTHUVIEN.exe.config
+E:\nam3ky2\Đồ án\đồ án\quản lý thư viện\winform\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTHUVIEN.exe
+E:\nam3ky2\Đồ án\đồ án\quản lý thư viện\winform\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTHUVIEN.pdb
+E:\nam3ky2\Đồ án\đồ án\quản lý thư viện\winform\QLTHUVIEN\QLTHUVIEN\bin\Debug\BouncyCastle.Crypto.dll
+E:\nam3ky2\Đồ án\đồ án\quản lý thư viện\winform\QLTHUVIEN\QLTHUVIEN\bin\Debug\Google.Protobuf.dll
+E:\nam3ky2\Đồ án\đồ án\quản lý thư viện\winform\QLTHUVIEN\QLTHUVIEN\bin\Debug\K4os.Compression.LZ4.dll
+E:\nam3ky2\Đồ án\đồ án\quản lý thư viện\winform\QLTHUVIEN\QLTHUVIEN\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\nam3ky2\Đồ án\đồ án\quản lý thư viện\winform\QLTHUVIEN\QLTHUVIEN\bin\Debug\K4os.Hash.xxHash.dll
+E:\nam3ky2\Đồ án\đồ án\quản lý thư viện\winform\QLTHUVIEN\QLTHUVIEN\bin\Debug\System.Buffers.dll
+E:\nam3ky2\Đồ án\đồ án\quản lý thư viện\winform\QLTHUVIEN\QLTHUVIEN\bin\Debug\System.Memory.dll
+E:\nam3ky2\Đồ án\đồ án\quản lý thư viện\winform\QLTHUVIEN\QLTHUVIEN\bin\Debug\System.Numerics.Vectors.dll
+E:\nam3ky2\Đồ án\đồ án\quản lý thư viện\winform\QLTHUVIEN\QLTHUVIEN\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\nam3ky2\Đồ án\đồ án\quản lý thư viện\winform\QLTHUVIEN\QLTHUVIEN\bin\Debug\Ubiety.Dns.Core.dll
+E:\nam3ky2\Đồ án\đồ án\quản lý thư viện\winform\QLTHUVIEN\QLTHUVIEN\bin\Debug\ZstdNet.dll
+E:\nam3ky2\Đồ án\đồ án\quản lý thư viện\winform\QLTHUVIEN\QLTHUVIEN\bin\Debug\Google.Protobuf.pdb
+E:\nam3ky2\Đồ án\đồ án\quản lý thư viện\winform\QLTHUVIEN\QLTHUVIEN\bin\Debug\Google.Protobuf.xml
+E:\nam3ky2\Đồ án\đồ án\quản lý thư viện\winform\QLTHUVIEN\QLTHUVIEN\bin\Debug\K4os.Compression.LZ4.xml
+E:\nam3ky2\Đồ án\đồ án\quản lý thư viện\winform\QLTHUVIEN\QLTHUVIEN\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\nam3ky2\Đồ án\đồ án\quản lý thư viện\winform\QLTHUVIEN\QLTHUVIEN\bin\Debug\K4os.Hash.xxHash.xml
+E:\nam3ky2\Đồ án\đồ án\quản lý thư viện\winform\QLTHUVIEN\QLTHUVIEN\bin\Debug\System.Buffers.xml
+E:\nam3ky2\Đồ án\đồ án\quản lý thư viện\winform\QLTHUVIEN\QLTHUVIEN\bin\Debug\System.Memory.xml
+E:\nam3ky2\Đồ án\đồ án\quản lý thư viện\winform\QLTHUVIEN\QLTHUVIEN\bin\Debug\System.Numerics.Vectors.xml
+E:\nam3ky2\Đồ án\đồ án\quản lý thư viện\winform\QLTHUVIEN\QLTHUVIEN\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\nam3ky2\Đồ án\đồ án\quản lý thư viện\winform\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csproj.ResolveComReference.cache
+E:\nam3ky2\Đồ án\đồ án\quản lý thư viện\winform\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.dangnhap.resources
+E:\nam3ky2\Đồ án\đồ án\quản lý thư viện\winform\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formchinh.resources
+E:\nam3ky2\Đồ án\đồ án\quản lý thư viện\winform\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.theloaisach.resources
+E:\nam3ky2\Đồ án\đồ án\quản lý thư viện\winform\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formtacgia.resources
+E:\nam3ky2\Đồ án\đồ án\quản lý thư viện\winform\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formnhaxb.resources
+E:\nam3ky2\Đồ án\đồ án\quản lý thư viện\winform\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formcapnhatsach.resources
+E:\nam3ky2\Đồ án\đồ án\quản lý thư viện\winform\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formdocgia.resources
+E:\nam3ky2\Đồ án\đồ án\quản lý thư viện\winform\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formmuontra.resources
+E:\nam3ky2\Đồ án\đồ án\quản lý thư viện\winform\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formthongkedocgia.resources
+E:\nam3ky2\Đồ án\đồ án\quản lý thư viện\winform\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formthongkesach.resources
+E:\nam3ky2\Đồ án\đồ án\quản lý thư viện\winform\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formtimkiemdocgia.resources
+E:\nam3ky2\Đồ án\đồ án\quản lý thư viện\winform\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formtimkiemsach.resources
+E:\nam3ky2\Đồ án\đồ án\quản lý thư viện\winform\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\nam3ky2\Đồ án\đồ án\quản lý thư viện\winform\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csproj.GenerateResource.cache
+E:\nam3ky2\Đồ án\đồ án\quản lý thư viện\winform\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csproj.CoreCompileInputs.cache
+E:\nam3ky2\Đồ án\đồ án\quản lý thư viện\winform\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csproj.CopyComplete
+E:\nam3ky2\Do_an\Do_an\QLTV\winform\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTHUVIEN.exe.config
+E:\nam3ky2\Do_an\Do_an\QLTV\winform\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTHUVIEN.exe
+E:\nam3ky2\Do_an\Do_an\QLTV\winform\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTHUVIEN.pdb
+E:\nam3ky2\Do_an\Do_an\QLTV\winform\QLTHUVIEN\QLTHUVIEN\bin\Debug\BouncyCastle.Crypto.dll
+E:\nam3ky2\Do_an\Do_an\QLTV\winform\QLTHUVIEN\QLTHUVIEN\bin\Debug\Google.Protobuf.dll
+E:\nam3ky2\Do_an\Do_an\QLTV\winform\QLTHUVIEN\QLTHUVIEN\bin\Debug\K4os.Compression.LZ4.dll
+E:\nam3ky2\Do_an\Do_an\QLTV\winform\QLTHUVIEN\QLTHUVIEN\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\nam3ky2\Do_an\Do_an\QLTV\winform\QLTHUVIEN\QLTHUVIEN\bin\Debug\K4os.Hash.xxHash.dll
+E:\nam3ky2\Do_an\Do_an\QLTV\winform\QLTHUVIEN\QLTHUVIEN\bin\Debug\System.Buffers.dll
+E:\nam3ky2\Do_an\Do_an\QLTV\winform\QLTHUVIEN\QLTHUVIEN\bin\Debug\System.Memory.dll
+E:\nam3ky2\Do_an\Do_an\QLTV\winform\QLTHUVIEN\QLTHUVIEN\bin\Debug\System.Numerics.Vectors.dll
+E:\nam3ky2\Do_an\Do_an\QLTV\winform\QLTHUVIEN\QLTHUVIEN\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\nam3ky2\Do_an\Do_an\QLTV\winform\QLTHUVIEN\QLTHUVIEN\bin\Debug\Ubiety.Dns.Core.dll
+E:\nam3ky2\Do_an\Do_an\QLTV\winform\QLTHUVIEN\QLTHUVIEN\bin\Debug\ZstdNet.dll
+E:\nam3ky2\Do_an\Do_an\QLTV\winform\QLTHUVIEN\QLTHUVIEN\bin\Debug\Google.Protobuf.pdb
+E:\nam3ky2\Do_an\Do_an\QLTV\winform\QLTHUVIEN\QLTHUVIEN\bin\Debug\Google.Protobuf.xml
+E:\nam3ky2\Do_an\Do_an\QLTV\winform\QLTHUVIEN\QLTHUVIEN\bin\Debug\K4os.Compression.LZ4.xml
+E:\nam3ky2\Do_an\Do_an\QLTV\winform\QLTHUVIEN\QLTHUVIEN\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\nam3ky2\Do_an\Do_an\QLTV\winform\QLTHUVIEN\QLTHUVIEN\bin\Debug\K4os.Hash.xxHash.xml
+E:\nam3ky2\Do_an\Do_an\QLTV\winform\QLTHUVIEN\QLTHUVIEN\bin\Debug\System.Buffers.xml
+E:\nam3ky2\Do_an\Do_an\QLTV\winform\QLTHUVIEN\QLTHUVIEN\bin\Debug\System.Memory.xml
+E:\nam3ky2\Do_an\Do_an\QLTV\winform\QLTHUVIEN\QLTHUVIEN\bin\Debug\System.Numerics.Vectors.xml
+E:\nam3ky2\Do_an\Do_an\QLTV\winform\QLTHUVIEN\QLTHUVIEN\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\nam3ky2\Do_an\Do_an\QLTV\winform\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csproj.AssemblyReference.cache
+E:\nam3ky2\Do_an\Do_an\QLTV\winform\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csproj.ResolveComReference.cache
+E:\nam3ky2\Do_an\Do_an\QLTV\winform\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.dangnhap.resources
+E:\nam3ky2\Do_an\Do_an\QLTV\winform\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formchinh.resources
+E:\nam3ky2\Do_an\Do_an\QLTV\winform\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.theloaisach.resources
+E:\nam3ky2\Do_an\Do_an\QLTV\winform\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formtacgia.resources
+E:\nam3ky2\Do_an\Do_an\QLTV\winform\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formnhaxb.resources
+E:\nam3ky2\Do_an\Do_an\QLTV\winform\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formcapnhatsach.resources
+E:\nam3ky2\Do_an\Do_an\QLTV\winform\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formdocgia.resources
+E:\nam3ky2\Do_an\Do_an\QLTV\winform\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formthongkedocgia.resources
+E:\nam3ky2\Do_an\Do_an\QLTV\winform\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formthongkesach.resources
+E:\nam3ky2\Do_an\Do_an\QLTV\winform\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formtimkiemdocgia.resources
+E:\nam3ky2\Do_an\Do_an\QLTV\winform\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formtimkiemsach.resources
+E:\nam3ky2\Do_an\Do_an\QLTV\winform\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\nam3ky2\Do_an\Do_an\QLTV\winform\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csproj.GenerateResource.cache
+E:\nam3ky2\Do_an\Do_an\QLTV\winform\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csproj.CoreCompileInputs.cache
+E:\nam3ky2\Do_an\Do_an\QLTV\winform\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csproj.CopyComplete
+E:\nam3ky2\Do_an\Do_an\QLTV\winform\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.exe
+E:\nam3ky2\Do_an\Do_an\QLTV\winform\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.pdb
+E:\nam3ky2\Do_an\Do_an\QLTV\winform\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.frmLogin.resources
+E:\nam3ky2\Do_an\Do_an\QLTV\winform\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.frmMuonsach.resources
+E:\nam3ky2\Do_an\Do_an\QLTV\winform\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.main.resources
+E:\nam3ky2\Do_an\Do_an\QLTV\winform\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.frmdoimk.resources
+E:\nam3ky2\Do_an\Do_an\QLTV\winform\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.frmhotro.resources
+E:\nam3ky2\Do_an\Do_an\QLTV\winform\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.frmthongtindg.resources

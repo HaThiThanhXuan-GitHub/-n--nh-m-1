@@ -1,0 +1,6 @@
+Tỉnh: Đăng nhập - Tài khoản, mượn trả sách
+Quân: Quản lý độc giả, cập nhập sách, tác giả
+Xuân: Chức năng tìm kiếm, mượn trả sách
+Tú: Chức năng báo cáo- thống kê, Thể loại,  nhà xuất bản
+
+chung: Liên kết CSDL , main, form chính. 
